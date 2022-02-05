@@ -6,9 +6,10 @@ A free alternative to services like to twilio to send whatsapp messages. It has 
 `git clone https://github.com/mathew4STAR/Whatsapp_Messaging_Service-WMS`
 
 # Requirments:
-You will need to have chrome installed on your computer.
-You will need chromedriver.
-You will need the selenium module
+1. You will need to have [chrome](https://www.google.com/chrome) installed on your computer.
+2. You will need [chromedriver](https://chromedriver.chromium.org/downloads).
+3. You will need the selenium module
+`pip install selenium`
 
 # Usage
 1. Copy the `wms.py` file to the folder your project is on.
